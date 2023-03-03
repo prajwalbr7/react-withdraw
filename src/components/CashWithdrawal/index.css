@@ -1,0 +1,66 @@
+/* Write your CSS here */
+
+.container0 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container1 {
+  height: 70%;
+  width: 50%;
+  background-color: #150b3e;
+  border-radius: 10px;
+  padding: 40px;
+}
+.cont-para-heading {
+  display: flex;
+  align-items: center;
+}
+.para-style {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #7c3aed;
+  color: #585076;
+  border-radius: 50px;
+  font-size: 12px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 300;
+  color: #d4d2db;
+  margin-left: 10px;
+}
+.paragraph {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 400;
+  color: #585076;
+}
+.para2 {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 700;
+  color: #ffffff;
+}
+.span {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 400;
+  color: #585076;
+}
+.para-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.button-container1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
